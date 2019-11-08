@@ -17,6 +17,8 @@ zuul:
     order-service: /order-service/**
   retryable: true
 
+
+
 ribbon:
   MaxAutoRetriesNextServer: 1
   MAxAutoRetries: 1
